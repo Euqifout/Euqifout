@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hi, I’m @Euqifout
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -28,7 +29,7 @@ I am a hard working, honest individual. I am a good timekeeper, always willing t
 ---
 [![](https://visitcount.itsvg.in/api?id=Euqifout&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Euqifout
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 
 
 <!---
 Euqifout/Euqifout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
